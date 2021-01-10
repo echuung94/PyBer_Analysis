@@ -8,7 +8,7 @@ Comparing the three different city types, during week of 01/13/2019, Rural was i
 
 ![Pyber_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Resources/Pyber_summary%20.png)
 ![Pyber_week_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Resources/Pyber_week_summary%20.png)
-![Pyber_fare_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Resources/pyber_fare_summary.png) 
+![Pyber_fare_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Analysis/pyber_fare_summary.png) 
 
 ## Summary 
 Three business recommendation to address disparities among the city types:</br>
