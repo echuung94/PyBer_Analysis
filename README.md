@@ -6,8 +6,8 @@ The purpose of this new analysis was to use use our skill and knowledge and use 
 The table below shows the summary of total rides, drivers, fares and the average fare per ride and driver. The Urban city type had the highest number of total rides and drivers with a total fare amount of $39,854.38. Although the total amount for Urban showed to be the highest, the average fare per ride and per driver showed to be the lowest when compared to Rural and Suburban. Rural had an average fare of $34.62, Suburban had an average fare of $30.97, and Urban with the lowest of $24.53. With Rural areas having the most expensive fares, the analysis shows that the more drivers there are available for a ride service, the cheaper the fare seems to be.</br>
 Comparing the three different city types, during week of 01/13/2019, Rural was inconsistent with Suburban and Urban, showing a decrease from the previous week while Suburan and Urban had increased. The average fare for that particular week decreased from $187.92 to $67.65, showing a difference of $120.27. The first high peak that is shown for each city type occurred the week of 02/24/2019. Rural had an average fare of $95.82, Suburban had an average fare of $1,045.50, and Urban had the highest when compared to the other two of $2,235.07. The multiple line chart shows that Urban had several up and down peaks between week 02/24/2019 with an average fare of $2,235.07 and 04/07/2019 with an average fare of $2,356.70. Even though the Rural areas has a higher price range, the company makes more money from rides in the Urban area. 
 
-![Pyber_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Resources/Pyber_summary%20.png)
-![Pyber_week_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Resources/Pyber_week_summary%20.png)
+![Pyber_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Resources/Pyber_summary%20.png)</br>
+![Pyber_week_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Resources/Pyber_week_summary%20.png)</br>
 ![Pyber_fare_summary](https://github.com/echuung94/PyBer_Analysis/blob/main/Analysis/pyber_fare_summary.png) 
 
 ## Summary 
